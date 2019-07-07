@@ -7,6 +7,9 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "graphql": "^14.4.2",
+    "graphqlhub-schemas": "^0.1.0",
+    "moment": "^2.24.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
