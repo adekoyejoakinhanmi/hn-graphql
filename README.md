@@ -1,4 +1,6 @@
-# hacker-news-graphql
+# Hacker-news-graphql
+An implementation of the hacker news based on the graphql hub schemas found here: [https://github.com/clayallsopp/graphqlhub#readme](https://github.com/clayallsopp/graphqlhub#readme)
+
 
 ## Project setup
 ```
